@@ -1,7 +1,4 @@
-# mygitrepo
-Vehicle Price Prediction Project
-
-
+# **Vehicle Price Prediction Project**
 
 # **EXECUTIVE SUMMARY**
 
