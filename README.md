@@ -12,7 +12,7 @@ The sale of vehicles is a complex process. There are many factors that influence
 The key task is to find out what features have a significant impact on the sale price of a vehicle and build a predictive model that can be used to predict the sale price based on its features. The insights gathered here can be used by the car dealers to price their vehicles competitively and by the customers to get a fair idea of the price of the vehicle they are interested in.
 
 ## **The Data**
-This data was obtained using web scraping techniques on [cargurus.com](https://www.cargurus.com/). This data is for academic, research and individual experimentation only and is not intended for commercial purposes. This dataset contains 3 million new and used vehicle listings in the United States. The data set can be downloaded on [Kaggle.com](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset?select=used_cars_data.csv). The data dictionary can be downloaded/reviewed [here]()
+This data was obtained using web scraping techniques on [cargurus.com](https://www.cargurus.com/). This data is for academic, research and individual experimentation only and is not intended for commercial purposes. This dataset contains 3 million new and used vehicle listings in the United States. The data set can be downloaded on [Kaggle.com](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset?select=used_cars_data.csv). The data dictionary can be downloaded/reviewed [here](https://drive.google.com/file/d/177p54r5GarfVBSzNn3jFTkHS1N-yXNwx/view?usp=share_link)
 
 <img src="https://drive.google.com/file/d/1LCpr-FdtcplrvDehEsurwEFnmp6ggWdM/view?usp=share_link" width=600>
 
