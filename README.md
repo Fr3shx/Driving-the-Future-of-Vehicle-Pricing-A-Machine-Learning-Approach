@@ -1,7 +1,5 @@
 # **Vehicle Price Prediction Project**
 
-# **EXECUTIVE SUMMARY**
-
 ## **Introduction**
 One of the most important practices in the automotive industry is the ability to predict the price of a vehicle. This is especially important for the automotive industry as it is an extremely competitive market and the ability to predict the price of a vehicle is a key factor in the success of a dealership. The ability to predict the price of a vehicle is also important for the consumer as it allows them to make an informed decision on the purchase of a vehicle. This is a perfect area to apply data science techniques as the data is readily available and the problem is well defined.
 
@@ -25,7 +23,14 @@ Through the EDA, we have learned that the features of the vehicle are important 
 Six different models were evaluated to determine which model would be the best fit for the data. The outcome resulted in XGBoost being the best model for predicting the price of a vehicle.
 
 ## **Conclusion**
-In recent years, it has been noted that many vehicles are being sold online. This is because it is more convenient for the buyer and the seller. The buyer can shop for a vehicle from the comfort of their home, and the seller can sell their vehicle without having to deal with the hassle of selling it in person. Therefore, it is important to understand the factors that affect the price of a vehicle. As a result, we have created a model that can predict the price of a vehicle based on the features of the vehicle. This model can be used by sellers to determine the price of their vehicle, and by buyers to determine if the price of the vehicle is fair. In the future, we can expand this model to include more features of the vehicle, and to include more data. This will allow us to create a more accurate model that can predict the price of a vehicle with more accuracy.
+In conclusion, we can see that:
+
+* The XGBoost model was able to predict the price of a vehicle with an accuracy of 96%.
+* Many features were found to be important in predicting the price of a vehicle.
+* The model can be used by dealerships and consumers to help them understand the pricing of a vehicle.
+
+The next steps for this project would be to deploy this model in a web application to be used by dealers or the buyers. To scale this project, I would need to collect more data and include outside factors such as the economy, the weather, and the time of year. This would help the model be more accurate in predicting the price of a vehicle. This was a fun project to work on and I learned a lot about the data science process. I hope you enjoyed this presentation and I look forward to hearing your feedback!
+
 
 
 
