@@ -23,7 +23,7 @@ Modeling is the process of creating a mathematical representation of a system or
 ## **Conclusion**
 In conclusion, the goal of the vehicle price prediction project was to build a model that could accurately predict the price of a vehicle based on its attributes. Through the process of exploratory data analysis and feature engineering, we gained a deeper understanding of the relationships between various attributes and the target variable. The modeling process involved training and evaluating several machine learning algorithms, including linear regression, decision tree, and random forest.
 
-After careful evaluation, the random forest model was selected as the best model for this project, with an R-squared value of 0.93 and a mean absolute error of 0.59. This model demonstrated a high level of accuracy and was able to capture complex relationships between the attributes and the target variable.
+After careful evaluation, the random forest model was selected as the best model for this project, with an R-squared value of 0.96 and a mean absolute error of 0.67. This model demonstrated a high level of accuracy and was able to capture complex relationships between the attributes and the target variable.
 
 This project serves as a demonstration of the power of machine learning in predicting real-world problems, and the results can be used by car dealerships or consumers to make informed decisions about vehicle prices. However, it is important to keep in mind that the model is only as good as the data it was trained on and limitations may arise when applied to new, unseen data. Further work could be done to gather additional data and improve the model's robustness.
 
