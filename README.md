@@ -11,14 +11,20 @@ The vehicle price prediction project aims to address a crucial business problem 
 ## **The Data**
 This data was obtained using web scraping techniques on [cargurus.com](https://www.cargurus.com/). This data is for academic, research and individual experimentation only and is not intended for commercial purposes. This dataset contains 3 million new and used vehicle listings in the United States. The data set can be downloaded on [Kaggle.com](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset?select=used_cars_data.csv). The data dictionary can be downloaded/reviewed [here](https://drive.google.com/file/d/177p54r5GarfVBSzNn3jFTkHS1N-yXNwx/view?usp=share_link)
 
+[Image1.pdf](https://github.com/Fr3shx/Driving-the-Future-of-Vehicle-Pricing-A-Machine-Learning-Approach/files/10783207/Image1.pdf)
+
 ## **Data Cleaning**
 Data cleaning is an essential step in the vehicle price prediction project as it helps to prepare the data for analysis and modeling. What we have seen so far is how to handle missing values, duplicate values, outliers, categorical variables, feature scaling, and feature engineering. In the next notebook, we will be using the cleaned dataset to explore the data and pre-process the data for modeling. 
 
 ## **Exploratory Data Analysis**
 The goal of EDA is to gain a deeper understanding of the data, identify any trends, patterns, outliers, and anomalies that may impact the accuracy of the predictions, and help to formulate hypotheses about the relationships between the variables. This information can then be used to refine the data cleaning steps and feature engineering, and to select the appropriate modeling techniques.
 
+[average price.pdf](https://github.com/Fr3shx/Driving-the-Future-of-Vehicle-Pricing-A-Machine-Learning-Approach/files/10783435/average.price.pdf)
+
 ## **Model Selection**
 Modeling is the process of creating a mathematical representation of a system or phenomenon. In this project, we aim to build a predictive model for our target variable, based on the features we have collected in our dataset. The goal of the modeling process is to find the best fitting mathematical function that describes the relationship between the features and the target variable.
+
+![image](https://user-images.githubusercontent.com/100140174/220081797-ad037e8f-c428-4f21-88ee-e43adead8c79.png)
 
 ## **Conclusion**
 In conclusion, the goal of the vehicle price prediction project was to build a model that could accurately predict the price of a vehicle based on its attributes. Through the process of exploratory data analysis and feature engineering, we gained a deeper understanding of the relationships between various attributes and the target variable. The modeling process involved training and evaluating several machine learning algorithms, including linear regression, decision tree, and random forest.
