@@ -1,3 +1,5 @@
+<img src="https://camscanada.com/img/CarGurus.png" width=600>
+
 # **Driving the Future of Vehicle Pricing: A Machine Learning Approach**
 
 ### **Introduction**
@@ -11,7 +13,7 @@ The vehicle price prediction project aims to address a crucial business problem 
 ## **The Data**
 This data was obtained using web scraping techniques on [cargurus.com](https://www.cargurus.com/). This data is for academic, research and individual experimentation only and is not intended for commercial purposes. This dataset contains 3 million new and used vehicle listings in the United States. The data set can be downloaded on [Kaggle.com](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset?select=used_cars_data.csv). The data dictionary can be downloaded/reviewed [here](https://drive.google.com/file/d/177p54r5GarfVBSzNn3jFTkHS1N-yXNwx/view?usp=share_link)
 
-[Image1.pdf](https://github.com/Fr3shx/Driving-the-Future-of-Vehicle-Pricing-A-Machine-Learning-Approach/files/10783207/Image1.pdf)
+<img width="418" alt="image" src="https://user-images.githubusercontent.com/100140174/220082585-70a88e6a-b8c2-42f8-b618-a48222c01bcb.png">
 
 ## **Data Cleaning**
 Data cleaning is an essential step in the vehicle price prediction project as it helps to prepare the data for analysis and modeling. What we have seen so far is how to handle missing values, duplicate values, outliers, categorical variables, feature scaling, and feature engineering. In the next notebook, we will be using the cleaned dataset to explore the data and pre-process the data for modeling. 
@@ -19,7 +21,7 @@ Data cleaning is an essential step in the vehicle price prediction project as it
 ## **Exploratory Data Analysis**
 The goal of EDA is to gain a deeper understanding of the data, identify any trends, patterns, outliers, and anomalies that may impact the accuracy of the predictions, and help to formulate hypotheses about the relationships between the variables. This information can then be used to refine the data cleaning steps and feature engineering, and to select the appropriate modeling techniques.
 
-[average price.pdf](https://github.com/Fr3shx/Driving-the-Future-of-Vehicle-Pricing-A-Machine-Learning-Approach/files/10783435/average.price.pdf)
+![image](https://user-images.githubusercontent.com/100140174/220082762-0c897806-e885-4b7b-a536-4708ddd97cb8.png)
 
 ## **Model Selection**
 Modeling is the process of creating a mathematical representation of a system or phenomenon. In this project, we aim to build a predictive model for our target variable, based on the features we have collected in our dataset. The goal of the modeling process is to find the best fitting mathematical function that describes the relationship between the features and the target variable.
