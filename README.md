@@ -9,7 +9,7 @@ Welcome to the "Driving the Future of Vehicle Pricing: A Machine Learning Approa
 ## **The Data**
 This data was obtained using web scraping techniques on [cargurus.com](https://www.cargurus.com/). This data is for academic, research and individual experimentation only and is not intended for commercial purposes. This dataset contains 3 million new and used vehicle listings in the United States. The data set can be downloaded on [Kaggle.com](https://www.kaggle.com/datasets/ananaymital/us-used-cars-dataset?select=used_cars_data.csv). The data dictionary can be downloaded/reviewed [here](https://drive.google.com/file/d/177p54r5GarfVBSzNn3jFTkHS1N-yXNwx/view?usp=share_link)
 
-<img width="418" alt="image" src="https://user-images.githubusercontent.com/100140174/220082585-70a88e6a-b8c2-42f8-b618-a48222c01bcb.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/100140174/220082585-70a88e6a-b8c2-42f8-b618-a48222c01bcb.png">
 
 ## **Summary**
 
