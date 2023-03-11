@@ -2,6 +2,8 @@
 
 # **Driving the Future of Vehicle Pricing: A Machine Learning Approach**
 
+By: Robby Khoutsaysana 
+
 ### **Introduction**
 
 Welcome to the "Driving the Future of Vehicle Pricing: A Machine Learning Approach" project. In this project, our goal is to develop a machine learning model that can accurately predict the price of a vehicle based on various factors such as make, model, year, mileage, and condition. The automobile industry is one of the largest and most competitive industries in the world, with millions of vehicles being sold each year. The price of a vehicle can have a significant impact on a consumer's purchasing decision, and it is crucial for both buyers and sellers to have an understanding of the market value of a vehicle. Through the use of machine learning algorithms and data analysis, we aim to provide a reliable and robust model that can assist in determining the fair market value of a vehicle. Join us on this exciting journey as we delve into the world of vehicle price prediction.
